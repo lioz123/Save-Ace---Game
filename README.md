@@ -15,14 +15,14 @@ Blackbeard and have been cought by the marines. Currently he is captured in the 
 ## Level editor
 - Comfortable way do design a map
 - Support adding characters, textures and blocks
-- all enteties are loaded from files.
+- All enteties are loaded from files.
 
 ## Movie editor
 - Support for multi combos for each characters
-- adjusting frames for their size
-- control of fps rate
-- adding bones to characters for presice collision detection
-- seperate sections into grops such as Head or Chest for defrent properties when colliding
+- Adjusting frames for their size
+- Control of fps rate
+- Adding bones to characters for presice collision detection
+- Seperate sections into grops such as Head or Chest for defrent properties when colliding
 
 
 ## Videos:
