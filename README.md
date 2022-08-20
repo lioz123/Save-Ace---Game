@@ -35,8 +35,8 @@ width="200"
 
 [<img src="/screenshots/main menu.png" align="left"
 width="200"
-    hspace="10" vspace="10">](/screenshots/main menu.png)
+    hspace="10" vspace="10">]
 
 [<img src="/screenshots/movie editor1.png" align="left"
 width="200"
-    hspace="10" vspace="10">](/screenshots/main menu.png)
+    hspace="10" vspace="10">]
