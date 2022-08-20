@@ -41,7 +41,7 @@ width="200"
 width="200"
     hspace="10" vspace="10">](/screenshots/game.png)
 
-[<img src="/screenshots/level editor v1.png" align="left"
+[<img src="/screenshots/movie editor1.png" align="left"
 width="200"
     hspace="10" vspace="10">](/screenshots/game.png)
 
@@ -55,7 +55,7 @@ width="200"
     hspace="10" vspace="10">](/screenshots/game.png)
 
 
-[<img src="/screenshots/level editor v1.png" align="left"
+[<img src="/screenshots/main menu.png" align="left"
 width="200"
     hspace="10" vspace="10">](/screenshots/game.png)
 
