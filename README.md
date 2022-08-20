@@ -15,7 +15,7 @@ Blackbeard and have been cought by the marines. Currently he is captured in the 
 ## Game
 - All characters are moving according to the "A Star" algorithm for finding shortest path
 - Mobs have an "Eyesight" only if a mob detects you should he chase you
-  
+
 ## Level editor
 - Comfortable way do design a map
 - Support adding characters, textures and blocks
@@ -30,8 +30,8 @@ Blackbeard and have been cought by the marines. Currently he is captured in the 
 
 
 ## Videos:
-Here is a video which presents the game and its tools
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/t_gmfp2ARCQ&ab_channel=LIOZDAYAN/0.jpg)](http://www.youtube.com/watch?v=t_gmfp2ARCQ&ab_channel=LIOZDAYAN "Save Ace!")
+Here is a Youtube video which presents the game and its tools -
+[Save Ace ](http://www.youtube.com/watch?v=t_gmfp2ARCQ&ab_channel=LIOZDAYAN)
 ## Screenshots
 [<img src="/screenshots/game.png" align="left"
 width="200"
