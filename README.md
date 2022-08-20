@@ -38,10 +38,6 @@ width="200"
     hspace="10" vspace="10">](/screenshots/main menu.png)
 
 
-[<img src="/screenshots/movie editor1.png" align="left"
-width="200"
-    hspace="10" vspace="10">](/screenshots/movie editor1.png)
-
 <br />
 
 ## LevelEditor
