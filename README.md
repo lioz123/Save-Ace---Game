@@ -1,4 +1,4 @@
-# SaveAce Arcade Game
+# Frogger Arcade Game
 This Game built in Java
 ## Summary
 This is the first project I have build outside of school 
@@ -15,17 +15,32 @@ Blackbeard and have been cought by the marines. Currently he is captured in the 
  
 
 ## Screenshots
-[<img src="/images/main.jpeg" align="left"
+[<img src="/screenshots/game.png" align="left"
 width="200"
-    hspace="10" vspace="10">](/images/main.jpeg)
+    hspace="10" vspace="10">](/screenshots/game.png)
 
-[<img src="/images/maps activity.jpeg" align="left"
+[<img src="/screenshots/level editor 3.png" align="left"
 width="200"
-    hspace="10" vspace="10">](/images/maps activity.jpeg)
+    hspace="10" vspace="10">](/screenshots/game.png)
 
-[<img src="/images/settings.jpeg" align="left"
+[<img src="/screenshots/level editor v1.png" align="left"
 width="200"
-    hspace="10" vspace="10">](/images/settings.jpeg)
+    hspace="10" vspace="10">](/screenshots/game.png)
+
+
+[<img src="/screenshots/level editor.png" align="left"
+width="200"
+    hspace="10" vspace="10">](/screenshots/level editor.png)
+
+
+[<img src="/screenshots/main menu.png" align="left"
+width="200"
+    hspace="10" vspace="10">](/screenshots/main menu.png)
+
+
+[<img src="/screenshots/movie editor1.png" align="left"
+width="200"
+    hspace="10" vspace="10">](/screenshots/movie editor1.png)
 
 ## LevelEditor
 I have built this level editor, which enables me to comfortably design new levels
