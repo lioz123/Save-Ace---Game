@@ -12,17 +12,21 @@ Blackbeard and have been cought by the marines. Currently he is captured in the 
  Your goal in this game is to find leads about ace's
   location and gather allies inorder to make a jailbreak and
   save your brother in time before he gets executed.
+## Game
+- All characters are moving according to the "A Star" algorithm for finding shortest path
+- Mobs have an "Eyesight" only if a mob detects you should he chase you
+  
 ## Level editor
 - Comfortable way do design a map
 - Support adding characters, textures and blocks
-- All enteties are loaded from files.
+- all enteties are loaded from files.
 
 ## Movie editor
 - Support for multi combos for each characters
-- Adjusting frames for their size
-- Control of fps rate
-- Adding bones to characters for presice collision detection
-- Seperate sections into grops such as Head or Chest for defrent properties when colliding
+- adjusting frames for their size
+- control of fps rate
+- adding bones to characters for precise collision detection
+- seperate sections into grops such as Head or Chest for different properties when colliding
 
 
 ## Videos:
