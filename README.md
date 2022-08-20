@@ -1,4 +1,4 @@
-# SaveAce Arcade Game
+# Frogger Arcade Game
 This Game built in Java
 ## Summary
 This is the first project I have build outside of school 
@@ -14,7 +14,8 @@ Blackbeard and have been cought by the marines. Currently he is captured in the 
   save your brother in time before he gets executed.
  
 ## Videos:
-You can see videos of the game and tools [here](/videos).
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t_gmfp2ARCQ&ab_channel=LIOZDAYAN.jpg)](https://www.youtube.com/watch?v=t_gmfp2ARCQ&ab_channel=LIOZDAYAN)
+
 ## Screenshots
 [<img src="/screenshots/game.png" align="left"
 width="200"
@@ -28,16 +29,17 @@ width="200"
 width="200"
     hspace="10" vspace="10">](/screenshots/game.png)
 
-
 [<img src="/screenshots/level editor.png" align="left"
 width="200"
-    hspace="10" vspace="10">](/screenshots/level editor.png)
+    hspace="10" vspace="10">](/screenshots/game.png)
 
 
-[<img src="/screenshots/main menu.png" align="left"
+[<img src="/screenshots/level editor v1.png" align="left"
 width="200"
-    hspace="10" vspace="10">]
+    hspace="10" vspace="10">](/screenshots/game.png)
 
-[<img src="/screenshots/movie editor1.png" align="left"
+
+[<img src="/screenshots/level editor v1.png" align="left"
 width="200"
-    hspace="10" vspace="10">]
+    hspace="10" vspace="10">](/screenshots/game.png)
+
