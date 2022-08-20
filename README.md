@@ -37,11 +37,6 @@ width="200"
 width="200"
     hspace="10" vspace="10">](/screenshots/main menu.png)
 
-
-<br />
-
-## LevelEditor
-I have built this level editor, which enables me to comfortably design new levels
-
-## MovieEditor
-Inorder to make it easier scan sprite sheet and make attack combos I have created the following MovieEditor.
+[<img src="/screenshots/movie editor1.png" align="left"
+width="200"
+    hspace="10" vspace="10">](/screenshots/main menu.png)
