@@ -8,24 +8,23 @@ This is the first project I have built outside of the school boundaries. Althoug
 Firefist Ace was defeated by the infamous pirate Blackbeard and captured by the Marines. He is currently imprisoned in ImpelDown prison, although his exact whereabouts are unknown.
 Your objective in this game is to find clues about Ace's whereabouts and gather allies to break out of prison and rescue your brother in time before he is executed.
 ## Game
-- All characters are moving according to the "A Star" algorithm for finding shortest path
-- Mobs have an "Eyesight" only if a mob detects you should he chase you
+- All characters move according to the "A Star" algorithm to find the shortest path
+- Mobs have an "Eyesight" only if a mob spots you, it should chase you
 
 ## Level editor
-- Comfortable way do design a map
-- Support adding characters, textures and blocks
-- all enteties are loaded from files.
+- Convenient way to design a map
+- support for adding characters, textures and blocks
+- all elements are loaded from files
 
 ## Movie editor
-- Support for multi combos for each character
-- adjusting frames for their size
-- control of fps rate
-- adding bones to characters for precise collision detection
-- seperate sections into groups such as Head or Chest for different properties when colliding
-
+- Support for multicombos for each character
+- Adjustment of frames to their size
+- Control of the fps rate
+- Adding bones to characters for precise collision detection
+- Dividing sections into groups like head or chest for different properties in collisions
 
 ## Videos:
-Here is a Youtube video which presents the game and its tools -
+Here is a youtube video that introduces the game and its tools -
 [Save Ace ](http://www.youtube.com/watch?v=t_gmfp2ARCQ&ab_channel=LIOZDAYAN)
 ## Screenshots
 [<img src="/screenshots/game.png" align="left"
