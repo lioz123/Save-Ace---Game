@@ -1,5 +1,5 @@
 # Save Ace Arcade Game
-This Game built in Java
+This Game built in Java from scratch using Graphics2D
 ## Summary
 This is the first project I have build outside of school 
 bounderies. Althrough this project is 5 years old its
