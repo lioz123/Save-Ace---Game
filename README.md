@@ -26,7 +26,7 @@ Blackbeard and have been cought by the marines. Currently he is captured in the 
 - adjusting frames for their size
 - control of fps rate
 - adding bones to characters for precise collision detection
-- seperate sections into grops such as Head or Chest for different properties when colliding
+- seperate sections into groups such as Head or Chest for different properties when colliding
 
 
 ## Videos:
