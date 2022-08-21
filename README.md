@@ -3,7 +3,7 @@ This Game built in Java
 ## Summary
 This is the first project I have build outside of school 
 bounderies. Althrough this project is 5 years old its
-demonstrates creativity of tools that I have developed and Proplem solving skills of bugs.
+demonstrates creativity of tools that I have developed and problem solving skills of bugs.
 
 
 ## About
