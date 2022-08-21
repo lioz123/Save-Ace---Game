@@ -22,7 +22,7 @@ Blackbeard and have been cought by the marines. Currently he is captured in the 
 - all enteties are loaded from files.
 
 ## Movie editor
-- Support for multi combos for each characters
+- Support for multi combos for each character
 - adjusting frames for their size
 - control of fps rate
 - adding bones to characters for precise collision detection
