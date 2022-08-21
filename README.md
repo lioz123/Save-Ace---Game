@@ -1,17 +1,12 @@
 # Save Ace Arcade Game
 This Game built in Java from scratch using Graphics2D
 ## Summary
-This is the first project I have build outside of school 
-bounderies. Althrough this project is 5 years old its
-demonstrates creativity of tools that I have developed and problem solving skills of bugs.
+This is the first project I have built outside of the school boundaries. Although this project is 5 years old, it shows the creativity of the tools I have developed and the problem solving abilities of Bugs.
 
 
 ## About
-Firefist Ace have been defeated by the notorious pirate 
-Blackbeard and have been cought by the marines. Currently he is captured in the Jail ImpelDown althrough his exact location is unknown.
- Your goal in this game is to find leads about ace's
-  location and gather allies inorder to make a jailbreak and
-  save your brother in time before he gets executed.
+Firefist Ace was defeated by the infamous pirate Blackbeard and captured by the Marines. He is currently imprisoned in ImpelDown prison, although his exact whereabouts are unknown.
+Your objective in this game is to find clues about Ace's whereabouts and gather allies to break out of prison and rescue your brother in time before he is executed.
 ## Game
 - All characters are moving according to the "A Star" algorithm for finding shortest path
 - Mobs have an "Eyesight" only if a mob detects you should he chase you
